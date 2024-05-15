@@ -1,7 +1,7 @@
 [
   {
     "remote": "jeanrivera",
-    "repository": "https://github.com/jeanrivera/device_oneplus_sm86xx-common",
+    "repository": "https://github.com/jeanrivera/device_oneplus_sm86xx-common-TWRP",
     "target_path": "device/oneplus/sm86xx-common",
     "branch": "android-12.1"
   }
